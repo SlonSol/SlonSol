@@ -1,5 +1,4 @@
-# SLON
-
+<h1 align="center">SLON</h1>
 
 ```
 https://t.me/SlonSOL
