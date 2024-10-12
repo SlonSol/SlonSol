@@ -22,8 +22,8 @@ https://t.me/SlonSOL
 <hr>
 
 <div align="center">
-    <a href="https://github.com/SlonZerion">
-        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SlonZerion&theme=dark" alt="Slon" />
+    <a href="https://github.com/SlonSol">
+        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SlonSol&theme=dark" alt="Slon" />
     </a>
 </div>
 
